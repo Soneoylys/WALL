@@ -10,6 +10,7 @@
 | 0/2/3 	| Hong Kong 	| Symmetric NAT 	| 200 Mbps  	| 32404 	|
 | 0/2/3 	| Macau     	| Symmetric NAT 	| 500 Mbps  	| 38499 	|
 | 0/2/3 	| Taipei    	| Symmetric NAT 	| 300 Mbps  	| 32001 	|
+| 0/2/3 	| Paris     	| Symmetric NAT 	| 100 Mbps  	| 31055 	|
 | 0/2/3 	| Hong Kong 	| Full Cone NAT*	| 1.2 Gbps  	| 32401 	|
 | 0/1/3 	| Tokyo     	| Full Cone NAT*	| 1.8 Gbps  	| 22409 	|
 | 0/1/3 	| San Jose  	| Full Cone NAT*	| 2.5 Gbps  	| 22404 	|
